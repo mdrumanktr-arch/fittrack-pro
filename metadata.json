@@ -1,0 +1,8 @@
+{
+  "name": "Remix FitTrack Pro - Modern Fitness \u0026 Nutrition Tracker",
+  "description": "Comprehensive fitness tracking platform with daily activity metrics, workout logging and calendar, nutrition \u0026 water tracking, goal analytics, and an AI fitness coach powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
